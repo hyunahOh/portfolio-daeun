@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: '여기가 [타이틀]임'
 description: null
 image: null
 author: null
